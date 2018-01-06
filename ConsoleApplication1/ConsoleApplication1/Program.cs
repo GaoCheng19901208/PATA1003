@@ -50,7 +50,6 @@ namespace ConsoleApplication1
             int roads = int.Parse(basicInfos[1]);
             start = int.Parse(basicInfos[2]);
             end = int.Parse(basicInfos[3]);
-
             adjList = new List<Node>[citys];
             for (int i = 0; i < roads; i++)
             {
