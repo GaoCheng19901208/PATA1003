@@ -5,6 +5,9 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
+    /// <summary>
+    /// ShortestPathByDFS 20180101
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
