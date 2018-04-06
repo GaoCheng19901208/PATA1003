@@ -6,7 +6,7 @@ using System.Text;
 namespace ConsoleApplication1
 {
     /// <summary>
-    /// ShortestPathByDFS 20180401
+    /// ShortestPathByDFS 20180402
     /// </summary>
     class Program
     {
