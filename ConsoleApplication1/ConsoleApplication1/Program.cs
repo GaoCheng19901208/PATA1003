@@ -7,7 +7,7 @@ namespace ConsoleApplication1
 {
     /// <summary>
     /// ShortestPathByDFS 20190407 GaoCheng
-    /// V1.0.0.6
+    /// V1.0.0.7
     /// </summary>
     class Program
     {
