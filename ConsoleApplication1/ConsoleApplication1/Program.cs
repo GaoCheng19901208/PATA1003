@@ -6,7 +6,7 @@ using System.Text;
 namespace ConsoleApplication1
 {
     /// <summary>
-    /// ShortestPathByDFS 201910092124 GaoCheng
+    /// ShortestPathByDFS 201910092324 GaoCheng
     /// V1.0.0.7
     /// </summary>
     class Program
